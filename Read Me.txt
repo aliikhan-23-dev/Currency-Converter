@@ -1,0 +1,44 @@
+💱 Currency Converter Web App
+A simple and responsive currency converter built with HTML, CSS, and JavaScript. This project uses the Frankfurter API to fetch real-time exchange rates between multiple currencies.
+
+🚀 Features
+Convert between 25+ major world currencies
+
+Real-time exchange rate fetching
+
+Auto-populated currency dropdowns with country flags
+
+Responsive and minimal user interface
+
+🛠 Tech Stack
+HTML
+
+CSS
+
+JavaScript (Vanilla)
+
+Frankfurter API
+
+Flags API for country flags
+
+📂 Project Structure
+cpp
+Copy
+Edit
+├── start.html       // Main HTML file
+├── start.css        // Styling for the app
+├── start.js         // Logic for fetching rates & UI updates
+├── codes.js         // Currency code to country mapping
+📸 Demo
+
+<sub>Replace with your own screenshot if available</sub>
+
+🧪 How to Use
+Clone or download the repo
+
+Open start.html in your browser
+
+Enter the amount, select currencies, and hit "Get Exchange Rate"
+
+📝 License
+This project is open-source and free to use under the MIT License.

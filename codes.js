@@ -1,0 +1,30 @@
+// codes.js
+
+const countryList = {
+  USD: "US",
+  EUR: "EU",
+  GBP: "GB",
+  INR: "IN",
+  AUD: "AU",
+  CAD: "CA",
+  SGD: "SG",
+  JPY: "JP",
+  CNY: "CN",
+  NZD: "NZ",
+  CHF: "CH",
+  ZAR: "ZA",
+  BRL: "BR",
+  KRW: "KR",
+  SEK: "SE",
+  NOK: "NO",
+  DKK: "DK",
+  MXN: "MX",
+  HKD: "HK",
+  TRY: "TR",
+  THB: "TH",
+  IDR: "ID",
+  MYR: "MY",
+  PHP: "PH",
+  PLN: "PL",
+  HUF: "HU"
+};
